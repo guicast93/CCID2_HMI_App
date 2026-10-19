@@ -6,10 +6,14 @@ C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_A
 C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\bin\Debug\libplctag.xml
 C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\bin\Debug\libplctag.NativeImport.xml
 C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HMI_App.csproj.AssemblyReference.cache
-C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HMI_App.Form1.resources
 C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HMI_App.Properties.Resources.resources
 C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HMI_App.csproj.GenerateResource.cache
 C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HMI_App.csproj.CoreCompileInputs.cache
 C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HM.9CCE09C5.Up2Date
 C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HMI_App.exe
 C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HMI_App.pdb
+C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HMI_App.PumpControl.resources
+C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HMI_App.MainWindow.resources
+C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HMI_App.Alarms.resources
+C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HMI_App.ValveControl.resources
+C:\Users\Guillermo Castillo\source\repos\CCID2_HMI_App\CCDI2_HMI_App\CCDI2_HMI_App\obj\Debug\CCDI2_HMI_App.MainWindow_old.resources

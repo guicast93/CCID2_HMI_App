@@ -52,6 +52,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Alarms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alarms.Designer.cs">
+      <DependentUpon>Alarms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ValveControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ValveControl.Designer.cs">
+      <DependentUpon>ValveControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow_old.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWindow_old.Designer.cs">
+      <DependentUpon>MainWindow_old.cs</DependentUpon>
+    </Compile>
     <Compile Include="PumpControl.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,15 +89,23 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Alarms.resx">
+      <DependentUpon>Alarms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ValveControl.resx">
+      <DependentUpon>ValveControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWindow_old.resx">
+      <DependentUpon>MainWindow_old.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="PumpControl.resx">
       <DependentUpon>PumpControl.cs</DependentUpon>
     </EmbeddedResource>
@@ -85,6 +122,42 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CCID2Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pump2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VerticalPipeShort.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\valve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftelbow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HorizonatlPipeLong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HorizonatlPipeShort.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VerticalPipeLong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftelbow - 180.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightelbow.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
